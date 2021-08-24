@@ -10,12 +10,15 @@ Features:
 
 
 ## Preparation
+How to Install Node.js and NPM on Windows
+https://phoenixnap.com/kb/install-node-js-npm-on-windows
+
 Install packages
 ```
 npm install express mongoose
 ```
 
-call API ```http://<IP>:5000/api/initialize>``` to initialize the Database and collection first
+call API ```http://<IP>:5000/api/initialize``` to initialize the Database and collection first
 
 
 ## Start service
